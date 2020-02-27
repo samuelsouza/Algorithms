@@ -1,4 +1,4 @@
-This repository contains code from my Algorithm classes at Binghamton University.
+This repository contains code from my Algorithms class at Binghamton University.
 
 The code is written in C and algorithms/problems are:
 - Cleared Checks
